@@ -1,0 +1,6 @@
+simulation_day,checkpoint,remaining_points,ideal_remaining_points
+0,Planning,13,13.0000
+3,Step 1,13,10.2143
+6,Step 2,13,7.4286
+9,Step 3,8,4.6429
+14,Step 4 - end,6,0.0000
